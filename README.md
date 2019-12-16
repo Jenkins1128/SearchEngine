@@ -11,20 +11,20 @@ Throughout my Software Development course, I developed a full-stack search engin
 0. Eclipse -> Preferences -> Java -> Build Path -> User Libraries 
 1. Click New...
 2. Add User library name. Ex: opennlp-tools
-3. Click on the newly create user library and click Add External JARs...
-4. Find the jar file(s) in your system explorer to add to your library.
+3. Click on the newly created user library and click Add External JARs...
+4. Find the jar file(s) in your system explorer and add them to your library.
 
-Name: opennlp-tools 
-Jar file: opennlp-tools-1.9.1.jar
+* Name: opennlp-tools 
+* Jar file: opennlp-tools-1.9.1.jar
 
-Name : lang 
-Jar file: commons-lang3-3.9.jar
+* Name : lang 
+* Jar file: commons-lang3-3.9.jar
 
-Name: text
-Jar file: commons-text-1.8.jar
+* Name: text
+* Jar file: commons-text-1.8.jar
 
-Name: jetty
-Jar files: jetty-all-9.4.9.v20180320-uber.jar, javax.servlet-api-4.0.1.jar
+* Name: jetty
+* Jar files: jetty-all-9.4.9.v20180320-uber.jar, javax.servlet-api-4.0.1.jar
 
 ## Run
 
