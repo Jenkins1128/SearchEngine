@@ -2,8 +2,8 @@
 
 Throughout my Software Development course, I developed a full-stack search engine using Java. This project involved advanced topics such as inheritance and polymorphism, multithreaded programming, networking, and web development. Also, throughout this course, I've learned useful techniques for designing, debugging, refactoring, and reviewing code.
 
-![Search](https://github.com/usf-cs212-fall2019/project-Jenkins1128/blob/master/Project/src/Search.png)
-![Results](https://github.com/usf-cs212-fall2019/project-Jenkins1128/blob/master/Project/src/Results.png)
+![Search](/Project/src/Search.png)
+![Results](/Project/src/Results.png)
 
 ## Add the Jar files in Eclipse
 [Jar files](https://github.com/Jenkins1128/SearchEngine/tree/master/SearchEngineJars)
