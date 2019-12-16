@@ -8,12 +8,11 @@ Throughout my Software Development course, I developed a full-stack search engin
 ## Add the Jar files in Eclipse
 [Jar files](https://github.com/Jenkins1128/SearchEngine/tree/master/SearchEngineJars)
 
-Eclipse -> Preferences -> Java -> Build Path -> User Libraries 
-
+0. Eclipse -> Preferences -> Java -> Build Path -> User Libraries 
 1. Click New...
 2. Add User library name. Ex: opennlp-tools
 3. Click on the newly create user library and click Add External JARs...
-3. Find the jar file(s) in your system explorer to add to your library.
+4. Find the jar file(s) in your system explorer to add to your library.
 
 Name: opennlp-tools 
 Jar file: opennlp-tools-1.9.1.jar
