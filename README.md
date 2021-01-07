@@ -1,6 +1,6 @@
 # Back-end Search Engine  
 
-Throughout my Software Development course, I developed a back-end search engine using Java, embedded Jetty, and servlets for multithreading. This project involved advanced topics such as inheritance and polymorphism, multithreaded programming, networking, and web development. Also, throughout this course, I've learned useful techniques for designing, debugging, refactoring, and reviewing code.
+Throughout my Software Development course, I developed a back-end search engine using Java, embedded Jetty, and servlets. This project involved advanced topics such as inheritance and polymorphism, multithreaded programming, networking, and web development. Also, throughout this course, I've learned useful techniques for designing, debugging, refactoring, and reviewing code.
 
 ![Search](/Project/src/Search.png)
 ![Results](/Project/src/Results.png)
